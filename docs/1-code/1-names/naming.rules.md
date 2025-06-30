@@ -1,0 +1,10 @@
+- Usa nombres de variables y funciones descriptivos
+- Para un concepto usa siempre la misma palabra. Sin sinónimos ni alternativas.
+- Forma palabras ortográficamente correctas
+- Usa camelCase por defecto. Los tipos en PascalCase y las constantes en UPPER_CASE
+- Empieza las funciones y procedimientos con un verbo. (get, is , has, can...)
+- Las variables booleanas en positivo y con verbo (is, has, can...)
+- No uses números mágicos
+- No uses términos técnicos como prefijos o sufijos de nada. Solo lenguaje de negocio.
+- No abuses de iniciales como variables en iteradores
+- Documenta métodos , funciones y clases públicas, pero no uses comentarios internos. Aclara la intención en código. Excepcionalmente explica soluciones complejas o inesperadas.
