@@ -1,7 +1,7 @@
 {
-  "name": "ancert-clean-code-1",
+  "name": "ancert-clean-code-2",
   "version": "1.0.0",
-  "description": "Curso de código limpio de Ancert",
+  "description": "Curso de código limpio de Ancert junio-julio",
   "scripts": {
     "lint": "eslint ./src --fix",
     "format": "prettier --write ./src"
@@ -9,7 +9,12 @@
   "keywords": [],
   "author": {
     "name": "Alberto Basalo",
-    "email": "albertobasalo@aicode.academy"
+    "email": "albertobasalo@aicode.academy",
+    "url": "https://albertobasalo.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CursosAlbertoBasalo/ancert-cleancode-2"
   },
   "license": "ISC",
   "devDependencies": {
