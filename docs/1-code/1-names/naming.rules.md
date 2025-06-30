@@ -4,7 +4,7 @@
 - Usa camelCase por defecto. Los tipos en PascalCase y las constantes en UPPER_CASE
 - Empieza las funciones y procedimientos con un verbo. (get, is , has, can...)
 - Las variables booleanas en positivo y con verbo (is, has, can...)
-- No uses números mágicos
+- No uses números mágicos. Define constantes con nombres descriptivos.
 - No uses términos técnicos como prefijos o sufijos de nada. Solo lenguaje de negocio.
 - No abuses de iniciales como variables en iteradores
-- Documenta métodos , funciones y clases públicas, pero no uses comentarios internos. Aclara la intención en código. Excepcionalmente explica soluciones complejas o inesperadas.
+- Documenta métodos , funciones y clases públicas, pero no uses comentarios internos. Aclara la intención en código. Excepcionalmente explica soluciones complejas o inesperadas.Prefiere dividir expresiones complejas en variables intermedias con nombres significativos antes que usar comentarios explicativos
